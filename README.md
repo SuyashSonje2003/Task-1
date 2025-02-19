@@ -19,3 +19,5 @@ Overview of Project: Develop a script that reads data from a file,analyzes it,an
 A script and a Sample report.
 
 technologies:Python ,FPDF or REPORTLAB Libraries. 
+
+![Image](https://github.com/user-attachments/assets/26880fd1-e1cd-4397-9b3a-5d62784240cc)
